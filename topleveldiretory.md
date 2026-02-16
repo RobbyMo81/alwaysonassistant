@@ -1,0 +1,16 @@
+Swabble/
+apps/
+assets/
+dist/
+docs/
+extensions/
+git-hooks/
+node_modules/
+packages/
+patches/
+scripts/
+skills/
+src/
+test/
+ui/
+vendor/
